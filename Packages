@@ -1,0 +1,18 @@
+Package: com.arabicdev.halem
+Version: 3.1-0+debug-1+debug
+Architecture: iphoneos-arm
+Maintainer: Halem
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0)
+Filename: ./debs/com.arabicdev.halem_3.1-0+debug-1+debug_iphoneos-arm.deb
+Size: 1456052
+MD5sum: 498d249ca7c6f1c25d865d1f2f45ec9d
+SHA1: 72cbb2488f664a3742700532fb61cedef3702203
+SHA256: cd5d2b6ef25aeba371ae21e39a0cb4f4dfc4e576d1a80a0ca2af0c356ed127ad
+Depiction: https://arabicdev2.github.io/ArabicDev/depictions/?p=arabicdev
+SileoDepiction: https://arabicdev2.github.io/ArabicDev/sileodepictions/arabicdev.json
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: halem
+Installed-Size: 10524
+Name: ARABIC DEV
+
