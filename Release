@@ -1,8 +1,8 @@
-Origin: tw3to Repo
-Label: adelsami
+Origin: HalemDev Repo
+Label: HalemDev
 Suite: stable
 Version: 1.0
-Codename: adelsami
+Codename: HalemDev
 Architectures: iphoneos-arm
 Components: main
-Description: tw3to Tweaks
+Description: HalemDev Tweaks
